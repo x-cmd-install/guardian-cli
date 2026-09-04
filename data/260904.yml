@@ -7,7 +7,7 @@ about:
   head: 51864a8
   archived: false
   latestVersion: v2.1
-  collectedAt: 2026-09-04T19:28:19Z
+  collectedAt: 2026-09-04T21:04:09Z
 timeline:
   created: 2025-12-22
   lastCommit: 2026-06-27
@@ -83,5 +83,63 @@ total:
   openIssue: 3
   commit: 38
 ---
+path: /home/runner/.x-repo/github.com/zakirkun/guardian-cli
+collectedAt: 2026-09-04T21:04:09Z
+loc:
+  Python:
+    code: 14895
+    comments: 994
+    blanks: 2891
+    files: 143
+  Yaml:
+    code: 1331
+    comments: 137
+    blanks: 284
+    files: 27
+  Dockerfile:
+    code: 89
+    comments: 35
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 65
+    comments: 26
+    blanks: 19
+    files: 1
+  Toml:
+    code: 58
+    comments: 0
+    blanks: 7
+    files: 1
+  Svg:
+    code: 42
+    comments: 6
+    blanks: 5
+    files: 1
+  Json:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 4
+  Batch:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1984
+    blanks: 839
+    files: 14
+  Text:
+    code: 0
+    comments: 9
+    blanks: 0
+    files: 4
+total:
+  code: 17550
+  comments: 3394
+  blanks: 4284
+  files: 197
 ---
 
