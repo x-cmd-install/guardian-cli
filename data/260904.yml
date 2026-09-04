@@ -1,11 +1,13 @@
 about:
-  description: Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows while maintaining ethical hacking standards.
+  description:
+  |
+    Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows while maintaining ethical hacking standards.
   license: NOASSERTION
   homepage: 
   head: 51864a8
   archived: false
   latestVersion: v2.1
-  collectedAt: 2026-09-04T04:23:29Z
+  collectedAt: 2026-09-04T19:28:19Z
 timeline:
   created: 2025-12-22
   lastCommit: 2026-06-27
@@ -16,17 +18,25 @@ popularity:
   fork: 369
   release: 2
   contributor: 7
-  pullRequest: 3
+  pullRequest: 11
   issue: 10
 language:
   Python: 703039
   Dockerfile: 4586
   Makefile: 3542
   Batchfile: 70
-totalLine: 711237
+totalBytes: 711237
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 1
@@ -57,3 +67,21 @@ recent:
     closedIssue: 7
     openIssue: 3
     commit: 30
+  last720d:
+    since: 2024-09-14
+    release: 2
+    mergedPR: 8
+    openPR: 1
+    closedIssue: 7
+    openIssue: 3
+    commit: 38
+total:
+  release: 2
+  mergedPR: 8
+  openPR: 1
+  closedIssue: 7
+  openIssue: 3
+  commit: 38
+---
+---
+
