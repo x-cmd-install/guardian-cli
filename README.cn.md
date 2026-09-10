@@ -4,7 +4,7 @@
 
 Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows while maintaining ethical hacking standards.
 
-![guardian-cli](https://repo.x-cmd.io/guardian-cli.svg)
+![guardian-cli](https://repo.x-cmd.io/guardian-cli.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install guardian-cli
 
 - **最新版本**: `v2.1` (2026-02-27)
 - **最近提交**: 2026-06-27
-- **发布时间**: 2026-02-27T04:21:07Z
 
 ## 流行度
 
-- **Star**: 1,874 · **Fork**: 370 · **开放 issue**: 10 · **贡献者**: 7
+- **Star**: 1,875 · **Fork**: 370 · **开放 issue**: 10 · **贡献者**: 7
 
 ## 累计统计
 
@@ -60,4 +59,4 @@ guardian-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:44Z._
