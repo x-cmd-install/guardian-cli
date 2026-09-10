@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1"
   latestRelease: "v2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:28:35Z
+  collectedAt: 2026-09-10T15:57:39Z
 timeline:
   created: 2025-12-22
   lastCommit: 2026-06-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-27
   lastPrerelease: 
 popularity:
-  star: 1874
+  star: 1875
   watcher: 22
   fork: 370
   release: 2
@@ -86,7 +86,7 @@ total:
   commit: 38
 ---
 path: /home/runner/.x-repo/github.com/zakirkun/guardian-cli
-collectedAt: 2026-09-10T04:28:36Z
+collectedAt: 2026-09-10T15:57:40Z
 loc:
   Python:
     code: 14895
