@@ -36,7 +36,7 @@ Total: **16,517** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,897 · **Forks**: 369 · **Open issues**: 10 · **Contributors**: 7
+- **Stars**: 1,898 · **Forks**: 369 · **Open issues**: 10 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **16,517** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-30 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-01 | 0 | 3 | 2 | 0 | 0 | 4 |
-| 360d | 2025-11-02 | 2 | 8 | 2 | 7 | 3 | 30 |
-| last720d | 2024-11-07 | 2 | 8 | 2 | 7 | 3 | 38 |
+| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-31 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-02 | 0 | 3 | 2 | 0 | 0 | 4 |
+| 360d | 2025-11-03 | 2 | 8 | 2 | 7 | 3 | 30 |
+| last720d | 2024-11-08 | 2 | 8 | 2 | 7 | 3 | 38 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for guardian-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:26:59Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:36:17Z._
